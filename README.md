@@ -444,13 +444,13 @@ SOFTWARE.
 
 ## 📞 Contact
 
-**Project Maintainer**: Your Name
+**Project Maintainer**: Zain Aftab
 
 - **Email**: [zainaftab589@gmail.com](mailto:your.email@example.com)
 - **GitHub**: [@ZainAftab-dev](https://github.com/yourusername)
 
 
-**Project Link**: [https://github.com/yourusername/hospital-management-system](https://github.com/yourusername/hospital-management-system)
+**Project Link**: [https://github.com/ZainAftab-dev/hospital-management-system](https://github.com/yourusername/hospital-management-system)
 
 ---
 
